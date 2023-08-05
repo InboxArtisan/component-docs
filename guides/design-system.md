@@ -14,13 +14,14 @@ As a result, it is important to choose a design system that is specifically desi
 
 ### Interactivity
 
-* Interactive elements like buttons or links have various interaction states and properties associated with them. For example, a button can be in the following interaction states (as per Material Design 3 guidelines \[[1](design-system.md#references)]):
-  * Enabled
-  * Disabled
-  * Hover
-  * Focused
-  * Pressed
-  * Dragged
+Interactive elements like buttons or links have various interaction states and properties associated with them. For example, a button can be in the following interaction states (as per Material Design 3 guidelines \[[1](design-system.md#references)]):
+
+* Enabled
+* Disabled
+* Hover
+* Focused
+* Pressed
+* Dragged
 
 Each of these states is associated with style properties like `opacity` or `background-color`.
 

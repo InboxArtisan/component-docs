@@ -4,9 +4,9 @@ description: Install @inboxartisan/components for creating custom mail templates
 
 # Installation
 
-To use these components, create a new react.email project or add it to an existing one. You can get the setup instructions here:&#x20;
+To use these components, create a new react.email project or add it to an existing one. You can get the setup instructions here:
 
-> NOTE: ⚠️ We do not recommend using the default setup instructions provided by react.email, because it's development server seems to be error-prone.
+> NOTE: ⚠️ We do not recommend using the default setup instructions provided by react.email, because it's development server seems to be error-prone. Instead use our custom boilerplate.
 
 ### Custom boilerplate (from InboxArtisan)
 
@@ -17,9 +17,8 @@ To use these components, create a new react.email project or add it to an existi
 1. Creating a new react.email project: [https://react.email/docs/getting-started/automatic-setup](https://react.email/docs/getting-started/automatic-setup)
 2. Adding react.email to an existing project: [https://react.email/docs/getting-started/manual-setup](https://react.email/docs/getting-started/manual-setup)
 
-Once, you've set it up, then install the @inboxartisan/components package using either of the following commands, depending on the package manager you're using:
+Once, you've set it up, then install the @inboxartisan/components package using either of the following commands, depending on the package manager you're using:&#x20;
 
 ```
-npm i @inboxartisan/components
-yarn add @inboxartisan/components
+🚧 WIP
 ```

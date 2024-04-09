@@ -27,8 +27,6 @@ Each of these states is associated with style properties like `opacity` or `back
 
 <figure><img src="https://lh3.googleusercontent.com/iTOnDTFkxnPSHW_IdlCmbVssCHpXTYfCqDeC-mJmnxiG7URuayxmAGnvoGq5MGXlSu6wYwognBESOp4EmH5Y14QP98Iu0viYcLI46d4_cF4=s0" alt=""><figcaption><p>Opacity for hover, focused, pressed &#x26; dragged states of a button from the <strong>Material Design 3</strong> guidelines [<a href="design-system.md#references">2</a>]</p></figcaption></figure>
 
-But here's the primary issue: These states cannot be implemented due to the lower adoption of the CSS properties that enable them. For example **states like "hover",  "pressed" & "focused" states cannot be implemented across the major mail clients**, because, as of April '24, only 60.98% of mail clients fully support the `:hover` pseudo-class , only 53.66% of mail clients fully support the `:active` pseudo-class  & only 48.78% of mail clients fully support the `:focus` pseudo-class . Major mail clients like Gmail & Outlook do not support them on certain devices, so using them will create inconsistencies in the design.
-
 The primary challenge lies in the limited support for CSS properties required to implement these interaction states across email clients. For example, as of April 2024, states like "hover", "pressed", and "focused" cannot be consistently rendered across major email clients. This is due to the low adoption rates of the necessary CSS pseudo-classes:
 
 * Only 60.98% of email clients fully support the `:hover` pseudo-class \[[3](design-system.md#references)], which is essential for creating hover effects.
